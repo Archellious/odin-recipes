@@ -1,0 +1,39 @@
+h1 {
+    color: lightyellow;
+    font-size: 100px;
+    font-weight: bold;
+    background-color: lightpink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:link {
+    color: lightyellow
+}
+
+a:visited {
+    color: darkkhaki;
+}
+
+a:hover {
+    color: aquamarine;
+}
+.first {
+    font-size: 50px;
+    background-color: lightcoral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: lightyellow;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: lightpink;
+
+}
+
+body {
+    background-color: lightsalmon;
+}
